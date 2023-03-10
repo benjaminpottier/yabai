@@ -31,5 +31,6 @@ yabai -m rule --add app="Finder" sticky=on layer=above manage=off
 yabai -m rule --add app="Microsoft Outlook" sticky=on layer=above manage=off
 yabai -m rule --add app="Installer" sticky=on layer=above manage=off
 yabai -m rule --add app="Messages" sticky=on layer=above manage=off
+yabai -m rule --add app="Docker Desktop" sticky=on layer=above manage=off
 
 echo "yabai configuration loaded.."
